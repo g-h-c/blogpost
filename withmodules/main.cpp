@@ -1,4 +1,3 @@
-import tinyxml2;
 import std.core;
 import clientconfig;
 
