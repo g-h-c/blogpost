@@ -33,11 +33,7 @@ distribution.
 #		include <stddef.h>
 #	endif
 #else
-#   include <cctype>
-#   include <climits>
-#   include <cstdio>
-#   include <cstdlib>
-#   include <cstring>
+#include <climits>
 #endif
 import std.core;
 
